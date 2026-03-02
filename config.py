@@ -1,6 +1,6 @@
 # config.py
 
-GEMINI_API_KEY = "AIzaSyDpMHEE5p1hlct_XbzJSRXaslD6WW5qglo"
+GEMINI_API_KEY = "."
 
 NEWS_STORAGE_FILE = "news_storage.json"
 
