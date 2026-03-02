@@ -1,6 +1,8 @@
 # config.py
 
-GEMINI_API_KEY = "."
+import os
+
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
 NEWS_STORAGE_FILE = "news_storage.json"
 
