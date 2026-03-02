@@ -4,12 +4,6 @@ GEMINI_API_KEY = "AIzaSyDpMHEE5p1hlct_XbzJSRXaslD6WW5qglo"
 
 NEWS_STORAGE_FILE = "news_storage.json"
 
-# config.py
-
-GEMINI_API_KEY = "AIzaSyDpMHEE5p1hlct_XbzJSRXaslD6WW5qglo"
-
-NEWS_STORAGE_FILE = "news_storage.json"
-
 RSS_FEEDS = [
     # 🌍 Global Major
     "http://feeds.bbci.co.uk/news/rss.xml",
